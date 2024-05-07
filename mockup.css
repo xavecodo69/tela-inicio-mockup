@@ -1,0 +1,33 @@
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #f3f3f3;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            text-align: center;
+            padding: 50px 0;
+        }
+        .logo {
+            max-width: 200px;
+        }
+        h1 {
+            color: #35424a;
+        }
+        p {
+            color: #666;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+       
